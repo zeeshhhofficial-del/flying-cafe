@@ -1,0 +1,7 @@
+{
+  "name": "Cafe Flying Gypsy's - Pune",
+  "description": "A premium, modern 3D-styled website for Pune's favorite 24x7 coffee shop, featuring a minimal aesthetic, smooth transitions, and real-time business details.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
